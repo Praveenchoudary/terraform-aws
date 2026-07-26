@@ -1,6 +1,6 @@
 # Terraform Interview Questions (Basic → Advanced → Scenario-Based)
 
-A complete set of Terraform interview questions to help you prepare — organized by difficulty level, ending with real-world scenario-based questions.
+A complete set of Terraform interview questions to help you prepare — organized by difficulty level, ending with real-world scenario-based questions. 
 
 ---
 
